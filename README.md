@@ -1,3 +1,6 @@
+# Github link 
+https://github.com/hiteshchoudhary/chai-aur-react
+
 # Write command on command prompt to create react files using vite
 1- npm create vite@latest My-react(project name)
 2- cd projectname
@@ -5,3 +8,5 @@
 
 # Configure Tailwind CSS 
 - https://tailwindcss.com/
+
+
